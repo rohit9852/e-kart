@@ -26,7 +26,7 @@ const Home = () => {
           <div className="row">
             <div className="col-6">
               <p className="mb-0 ">
-                Copyright &copy; 2020 All Rights Reserved by Khoa Do
+                Copyright &copy; 2020 All Rights Reserved by Rohit Prasad Kushwaha
               </p>
             </div>
             <div className="col-6 d-flex justify-content-center align-items-center">
