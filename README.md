@@ -1,8 +1,5 @@
 # E-Commerce Store with MERN Stack
 
-This app is the follow up of my boilerplate-MERN:
-https://github.com/khoadodk/boilerplate-mern-stack
-
 # App features
 
 <ul>
